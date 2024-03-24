@@ -1,3 +1,3 @@
-module github.com/BParolini/interpreter-in-go
+module monkey
 
 go 1.22.1
